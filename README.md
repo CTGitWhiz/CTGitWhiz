@@ -2,11 +2,11 @@
 ### About me:
 Hi there! My name is Cem and I am a Web-Dev with a passion for A.I.
 
-I'm always looking for new opportunities to learn and grow, so feel free to reach out to me if you have any questions or just want to chat.  
+I'm always looking for new opportunities to learn and grow, so feel free to reach out to me if you have any questions or just want to chat.
 
----  
-
+---
 ![link](https://media.springernature.com/lw630/nature-cms/uploads/collections/AI_HERO-58306268c6f4b659459f5b7b2dd3e8a5.jpg)
+
 ---
 ### Skills
 
